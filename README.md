@@ -14,5 +14,5 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
 ![alt](https://github.com/Shaw9575/Machine_learning_banking_project/blob/master/source/WechatIMG328.jpeg?raw=true)
 
 ## Representation 
-  model-con.ipynb  
-  model_1hot.ipynb
+  `model-con.ipynb`  
+  `model_1hot.ipynb`

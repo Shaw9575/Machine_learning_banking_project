@@ -5,3 +5,4 @@ e-mail: shuangy@usc.edu
 
 Dataset: https://www.kaggle.com/c/home-credit-default-risk/data
 
+## Data Structure
